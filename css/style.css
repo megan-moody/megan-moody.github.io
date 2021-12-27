@@ -1,9 +1,28 @@
 body {
-    font-family: serif;
+    background-color: white;
+    font-family: garamond, serif;
+    color: #100C0D;
+    text-align: center;
 }
-h1 {
-    color: black;
+#main-header {
+    color: #100C0D;
+    display:block;
+    font-family: helvetica, sans-serif;
+    font-style:normal;
+}
+nav {
+    display:block;
+}
+h2 {
+    color: #100C0D;
 }
 p {
-    color: black;
+    color: #100C0D;
+    font-size: 14px;
+}
+a {
+    font-family: sans-serif;
+    font-size: 14px;
+    color: #100C0D;
+    font-style: normal;
 }
